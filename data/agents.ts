@@ -26,8 +26,8 @@ export const agents: Agent[] = [
     photo:
       "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzaW5lc3MlMjB3b21hbnxlbnwwfHwwfHx8MA%3D%3D",
     email: "jane@primeestates.co.ke",
-    phone: "+254700111111",
-    whatsapp: "+254700111111",
+    phone: "+254113388120",
+    whatsapp: "+254113388120",
     description:
       "Jane has over 10 years of experience in residential real estate in Nairobi. She is known for her personalized approach and deep market knowledge.",
     experience:
@@ -54,8 +54,8 @@ export const agents: Agent[] = [
     photo:
       "https://images.unsplash.com/photo-1648293822097-b027a1470d64?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8",
     email: "john@primeestates.co.ke",
-    phone: "+254700222222",
-    whatsapp: "+254700222222",
+    phone: "+254113388120",
+    whatsapp: "+254113388120",
     description:
       "John specializes in commercial properties across Kenya, helping investors find high-return opportunities with confidence.",
     experience: "8 years advising investors in commercial and office spaces.",
@@ -85,8 +85,8 @@ export const agents: Agent[] = [
     photo:
       "https://images.unsplash.com/photo-1617244148472-3566e69ae9f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D",
     email: "mercy@primeestates.co.ke",
-    phone: "+254700333333",
-    whatsapp: "+254700333333",
+    phone: "+254113388120",
+    whatsapp: "+254113388120",
     description:
       "Mercy is passionate about finding dream homes for families. Her expertise in residential sales ensures smooth transactions.",
     experience:
@@ -110,8 +110,8 @@ export const agents: Agent[] = [
     photo:
       "https://images.unsplash.com/photo-1685376104208-fc94af0786e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHx8",
     email: "david@primeestates.co.ke",
-    phone: "+254700444444",
-    whatsapp: "+254700444444",
+    phone: "+254113388120",
+    whatsapp: "+254113388120",
     description:
       "David focuses on luxury properties and high-end clients, providing unmatched service and privacy in premium real estate.",
     experience:
@@ -135,8 +135,8 @@ export const agents: Agent[] = [
     photo:
       "https://images.unsplash.com/photo-1573496782432-8690d8148c46?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
     email: "lilian@primeestates.co.ke",
-    phone: "+254700555555",
-    whatsapp: "+254700555555",
+    phone: "+254113388120",
+    whatsapp: "+254113388120",
     description:
       "Lilian advises investors on high-yield real estate opportunities and guides them through every step of the investment process.",
     experience:
@@ -164,8 +164,8 @@ export const agents: Agent[] = [
     photo:
       "https://images.unsplash.com/photo-1620511469298-7c119cc6982c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8", // Clear Unsplash image
     email: "samuel@primeestates.co.ke",
-    phone: "+254700666666",
-    whatsapp: "+254700666666",
+    phone: "+254113388120",
+    whatsapp: "+254113388120",
     description:
       "Samuel specializes in both residential and commercial properties, helping clients make informed investment decisions. He is known for his attention to detail and excellent negotiation skills.",
     experience:

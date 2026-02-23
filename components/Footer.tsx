@@ -69,9 +69,9 @@ export default function Footer() {
             123 Prime Street, Nairobi, Kenya
           </p>
           <p className="text-sm md:text-base mt-1">
-            Email: info@primeestates.co.ke
+            Email: maraspot.ke@gmail.com
           </p>
-          <p className="text-sm md:text-base mt-1">Phone: +254 700 000 000</p>
+          <p className="text-sm md:text-base mt-1">Phone: +254 113 388 120</p>
 
           {/* Social Icons */}
           <div className="flex gap-4 mt-4">
